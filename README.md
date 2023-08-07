@@ -1,9 +1,8 @@
-![Weather App](https://url-to-your-screenshot.png)
+![screenshot_weatherapp](https://github.com/yasminlopes/weather-app-reactjs/assets/75736181/9e7969a7-0a03-45b2-9c47-e9c3f5b1d309)
 
 # Overview
 O Weather App é um aplicativo React.js simples que permite aos usuários verificar a previsão do tempo para diferentes cidades em todo o mundo. O aplicativo utiliza a API do WeatherAPI (https://www.weatherapi.com/) para obter dados de previsão em tempo real. Com uma interface de usuário limpa e amigável, os usuários podem inserir o nome da cidade desejada e visualizar informações detalhadas sobre o clima atual, bem como a previsão para os próximos dias.
 
-Este repositório contém o código-fonte completo do aplicativo, pronto para ser clonado e executado localmente. Fique à vontade para contribuir, relatar problemas ou sugerir melhorias para o projeto.
 
 # Como Executar a aplicação
 1. Clone este repositório em sua máquina local:
